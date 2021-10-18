@@ -22,7 +22,7 @@ You may find the following publicly available API at ​ https://www.breakingbad
 ## Screenshots 🚀
 
 ![Screen1](https://github.com/ezsocial/xumak/blob/main/Screenshot_20211017_222836.png)
-![Screen2](https://github.com/ezsocial/betterfly/blob/main/images/Screenshot_20210612_144105.png)
+![Screen2](https://github.com/ezsocial/xumak/blob/main/Screenshot_20211017_222844.png)
 ![Screen3](https://github.com/ezsocial/betterfly/blob/main/images/Screenshot_20210612_144109.png)
 
 ## Aqui para bajar la apk e instalarla en modo de PRUEBA en tu Smartphone 🚀
