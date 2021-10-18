@@ -1,5 +1,4 @@
 # xumak
-_
 It should be possible for the user to browse the list of characters. Users of the app should be
 able to toggle a character as a favorite and these selections should be persisted across restarts
 of the app. Favorite characters should appear at the top of the list when the list is loaded. The
