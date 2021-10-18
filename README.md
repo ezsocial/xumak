@@ -1,4 +1,10 @@
 # xumak test
+
+Overview
+The WTA Android Code Challenge consists of an Android application that displays the list of
+Breaking Bad Characters using a publicly available REST API on the web. Clicking on a
+character opens a simple detail screen with more information about the character.
+-----------------------
 It should be possible for the user to browse the list of characters. Users of the app should be
 able to toggle a character as a favorite and these selections should be persisted across restarts
 of the app. Favorite characters should appear at the top of the list when the list is loaded. The
