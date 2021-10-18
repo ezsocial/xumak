@@ -26,5 +26,5 @@ You may find the following publicly available API at ​ https://www.breakingbad
 ![Screen3](https://github.com/ezsocial/xumak/blob/main/Screenshot_20211017_222853.png)
 
 ## Aqui para bajar la apk e instalarla en modo de PRUEBA en tu Smartphone 🚀
-[![Download](https://api.bintray.com/packages/unsplash/unsplash-photopicker-android/com.unsplash.pickerandroid.photopicker/images/download.svg) ](https://github.com/ezsocial/betterfly/blob/main/betterflyDEMO.apk)
+[![Download](https://github.com/ezsocial/xumak/blob/main/app-debug.apk)
 ### Pre-requisitos 📋
