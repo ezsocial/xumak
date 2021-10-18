@@ -27,3 +27,32 @@ You may find the following publicly available API at ​ https://www.breakingbad
 ## Aqui para bajar la apk e instalarla en modo de PRUEBA en tu Smartphone 🚀
 [![Download](https://github.com/ezsocial/xumak/blob/main/app-debug.apk)]
 ### Pre-requisitos 📋
+  android {
+    compileSdkVersion 30
+    buildToolsVersion "30.0.3"
+
+    defaultConfig {
+        applicationId "net.ezmovil.xumak"
+        minSdkVersion 23
+        targetSdkVersion 30
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    kotlinOptions {
+        jvmTarget = '1.8'
+    }
+}
+
