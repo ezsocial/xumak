@@ -4,10 +4,9 @@ able to toggle a character as a favorite and these selections should be persiste
 of the app. Favorite characters should appear at the top of the list when the list is loaded. The
 details screen should show the character’s occupation and status obtained from the API
 endpoint.
-The code can be written in the language of your choice and you are free to use open source
-libraries as you see fit. We would like to see a bug-free app, with a clean UI, that is written with
-a modern architecture. Please write tests where they are appropriate. The app should be
-compatible with Android 6.0 or above (API Level 23+).
+The code is written in Kotlin and Java Android. 
+We would like to see a bug-free app, with a clean UI, that is written with
+a modern architecture. The is compatible with Android 6.0 or above (API Level 23+).
 
 Deliverables
 Please submit your source code via a link to Github.
