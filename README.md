@@ -29,7 +29,7 @@ You may find the following publicly available API at ​ https://www.breakingbad
 ![Screen1](https://github.com/ezsocial/xumak/blob/main/Screenshot_20211017_222836.png)
 ![Screen3](https://github.com/ezsocial/xumak/blob/main/Screenshot_20211017_222853.png)
 
-## Aqui para bajar la apk e instalarla en modo de PRUEBA en tu Smartphone 🚀
+## Here insall the apk TEST in your smparthone 🚀
 [![Download](https://github.com/ezsocial/xumak/blob/main/app-debug.apk)]
 ### Pre-requisitos 📋
   android {
